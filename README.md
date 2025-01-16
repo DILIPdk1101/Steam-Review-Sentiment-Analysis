@@ -6,6 +6,13 @@ This project performs sentiment analysis on Steam game reviews using Natural Lan
 ### **Sentiment Analysis Results**
 After uploading a dataset or entering text, the app provides visual feedback:
 
+## Positive review:
+
+![Sentimental analysis](https://github.com/DILIPdk1101/Steam-Review-Sentiment-Analysis/blob/0560d9a1cffc588a6cd6a8757db65b51cf0869f7/Positive%20review.png)
+
+### Negative review:
+
+![Sentimental analysis](https://github.com/DILIPdk1101/Steam-Review-Sentiment-Analysis/blob/0560d9a1cffc588a6cd6a8757db65b51cf0869f7/Positive%20review.png)
 
 
 ### Dataset:
